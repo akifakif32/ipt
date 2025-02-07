@@ -29,3 +29,7 @@ https://alpha.cf-worker-c4d6a2ea181de1b9.workers.dev/live/bein-sports-2/playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
 https://alpha.cf-worker-c4d6a2ea181de1b9.workers.dev/live/bein-sports-3/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8971102.png" group-title="Haber",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TGRT Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_TGRT" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5c63c466866ac30cbc2ad84f" group-title="Haber",TGRT Haber
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
